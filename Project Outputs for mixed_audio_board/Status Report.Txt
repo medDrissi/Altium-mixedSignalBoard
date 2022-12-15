@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [mixed_audio_board.PrjPcb]
+   Generated File[mixed_audio_board.GTO]
+   Generated File[mixed_audio_board.GTP]
+   Generated File[mixed_audio_board.GTS]
+   Generated File[mixed_audio_board.GTL]
+   Generated File[mixed_audio_board.GP1]
+   Generated File[mixed_audio_board.GP2]
+   Generated File[mixed_audio_board.GBL]
+   Generated File[mixed_audio_board.GBS]
+   Generated File[mixed_audio_board.GBP]
+   Generated File[mixed_audio_board.GBO]
+   Generated File[mixed_audio_board.GM8]
+   Generated File[mixed_audio_board.GKO]
+   Generated File[mixed_audio_board.GPT]
+   Generated File[mixed_audio_board.GPB]
+   Generated File[mixed_audio_board.RUL]
+   Generated File[mixed_audio_board.EXTREP]
+   Generated File[mixed_audio_board.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 01:05:15 On 23/01/2022
